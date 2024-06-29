@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I am currently at the end of my third year of stud
 * C#
 * PYTHON
 * JAVASCRIPT
-* FIREBACE
+* FIREBASE
 * MONGODB
 * MYSQL
 * NODEJS
