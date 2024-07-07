@@ -25,6 +25,8 @@ Welcome to my GitHub profile. I am currently at the end of my third year of stud
 * MYSQL
 * NODEJS
 * CSS
+* FLUTTER
+* DART
 
 <br />
 <br />
